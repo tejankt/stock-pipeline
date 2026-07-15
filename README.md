@@ -25,6 +25,7 @@ You can now interact with your stock database using plain English via a web-base
 ### Launch the Web Interface:
 ```Bash
 python -m streamlit run app.py
+Chat: Open http://localhost:8501 in your browser to ask questions like "What is the latest stock price for AAPL?".
 
 ### Dependencies
 Ensure you have installed the additional AI libraries:
