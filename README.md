@@ -26,6 +26,8 @@ Intelligent Orchestration: Using langgraph's create_react_agent, the system acts
 Why this matters:
 By combining these two approaches, the agent overcomes the limitations of traditional chatbots. It can answer both quantitative questions ("What was the closing price of AAPL?") and qualitative questions ("What are the risks mentioned in recent quarterly reports?") in a single, unified interface.
 
+test.py: Main script for document ingestion and similarity search testing.
+
 ## 🤖 AI Database Agent
 You can now interact with your stock database using plain English via a web-based chat interface.
 
